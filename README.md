@@ -15,3 +15,6 @@
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div><br>
 
+
+
+<a href="https://app.rocketseat.com.br/me/dario"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=dario&type=card" width="280" alt="Dário Oliveira Da Silva Neto's Rocket ID"/></a>
