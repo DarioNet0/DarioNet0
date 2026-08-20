@@ -4,7 +4,7 @@ Cientista de Dados Jr na Zema, trabalhando com o stack Microsoft de BI — model
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1rio-neto-82b62b253/)
 
-**![Dario GitHub stats](https://github-readme-stats.vercel.app/api?username=DarioNet0&show_icons=true&theme=dark)**
+![Dario GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DarioNet0&show_icons=true&theme=dark)
 
 ### Stack principal
 
