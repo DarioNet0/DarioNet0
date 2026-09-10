@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Dário Neto 👋
 
-Cientista de Dados Jr na Zema, trabalhando com o stack Microsoft de BI — modelagem dimensional, ETL e analytics para times de negócio.
+Cientista de Dados na Zema, trabalhando com o stack Microsoft de BI — modelagem dimensional, ETL e analytics para times de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1rio-neto-82b62b253/)
 
