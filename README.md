@@ -27,7 +27,3 @@ Currently expanding into **Python**, **cloud**, and **AI-integrated data pipelin
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-### 📊 GitHub stats
-
-![Dario GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DarioNet0&show_icons=true&theme=dark)
